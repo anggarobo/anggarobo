@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Angga!  👋
+
+[![LinkedIn Badge](https://img.shields.io/badge/anggaprabes-informational?style=flat&logo=linkedin&logoColor=white&color=4169E1)](https://www.linkedin.com/in/anggarobo/)
+[![Twitter Badge](https://img.shields.io/badge/anggarobo-informational?style=flat&logo=twitter&logoColor=white&color=1E90FF)](https://twitter.com/anggarobo)
+[![Github Badge](https://img.shields.io/badge/abughiyats-informational?style=flat&logo=github&logoColor=white&color=2F4F4F)](https://github.com/anggarobo)
+
+You can call me Angga or Abu Ghiyats, I have enthusiasm in technology and I want to be a software engineer who can solve people's problems. My ambition to become a Software Engineer is to contribute to providing innovation in developing useful applications and helping people to work optimally.
 
 <!--
 **anggarobo/anggarobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
