@@ -3,8 +3,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/anggarobo-informational?style=flat&logo=linkedin&logoColor=white&color=4169E1)](https://www.linkedin.com/in/anggarobo/)
 [![Github Badge](https://img.shields.io/badge/anggarobo-informational?style=flat&logo=github&logoColor=white&color=2F4F4F)](https://github.com/anggarobo)
 [![Twitter Badge](https://img.shields.io/badge/anggarobo-informational?style=flat&logo=twitter&logoColor=white&color=1E90FF)](https://twitter.com/anggarobo)
+[![Anggarobo Badge](https://img.shields.io/badge/anggarobo.com?logo=anggarobo)](https://anggarobo.com)
 
-You can call me Angga or Abu Ghiyats, I have enthusiasm in technology and I want to be a software engineer who can solve people's problems. My ambition to become a Software Engineer is to contribute to providing innovation in developing useful applications and helping people to work optimally.
+A Frontend Developer, specializing in React and all its magical frameworks. I turn UI designs into reality using React/Next/Remix, Typescript & CSS. 
+Turning user interface into user smile-face. Software Engineer with a passion for developing an attractive experience and make user interactions better than a sunset on the beach for web applications. Code wrangler, testing the limits of logic and sanity, Debugging errors and designing executable solutions, it's all in a day's work for me. Debugging errors is my superpower. I'm here to execute code solutions and make the world a better place.
 
 <!--
 **anggarobo/anggarobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
