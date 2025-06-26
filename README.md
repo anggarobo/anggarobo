@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: I'm available on [Linked In](https://linkedin.com/in/anggarobo/), [Github](https://github.com/anggarobo/), [DevTo](https://dev.to/angga), and [X](https://x.com/anggarobo) — feel free to drop a message.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: amateur footballer who actively plays fun football
+- ⚡ Fun fact: Amateur footballer who actively plays fun football
 
