@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GO, electron, sveltejs
 - 👯 I’m looking to collaborate on open-source projects, especially those built with JavaScript, React, Svelte, Electron, or Go.
 
-- 📫 How to reach me: I'm available on [Linked In](https://linkedin.com/in/anggarobo/), [Github](https://github.com/anggarobo/), [DevTo](https://dev.to/angga), and [X](https://x.com/anggarobo) — feel free to drop a message.
+- 📫 How to reach me: I'm available on [Linked In](https://linkedin.com/in/anggarobo/), [Github](https://github.com/anggarobo/), [DevTo](https://dev.to/angga), and [X](https://x.com/_dikacangin) — feel free to drop a message.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: An Amateur footballer who actively plays fun football
 
